@@ -1,5 +1,5 @@
 # Themes
-This is the official repository for **fruithost** Themes!
+This is the official repository for ![](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/LOGO_TEXT.png) **fruithost** Themes!
 
 **Running a server has never been so easy!**
 
