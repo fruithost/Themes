@@ -1,0 +1,12 @@
+[data-bs-theme="dark"] {
+    /* Config */
+    --logo:     #FFFFFF;
+    --primary:  #F03728;
+    --from:     #FF382A;
+    --to:       #FFB000;
+    --color:    #FFFFFF;
+}
+
+[data-bs-theme="dark"] .submenu {
+    background: rgba(255, 255, 255, 0.5);
+}

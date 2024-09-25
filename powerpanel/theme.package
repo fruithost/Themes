@@ -1,0 +1,25 @@
+{
+	"name":			"Powerpanel",
+	"version":		"1.0.0",
+	"description":	"Basic Powerpanel-Theme.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Themes",
+	"screenshots": [
+        {
+            "file": "screenshots/login.png",
+            "description": "Login page"
+        },
+        {
+            "file": "screenshots/settings.png",
+            "description": "Account settings"
+        },
+        {
+            "file": "screenshots/dark.png",
+            "description": "Dark-Mode on Network-Settings"
+        }
+    ]
+}
